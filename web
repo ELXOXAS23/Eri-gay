@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prueba</title>
+</head>
+<body>
+     <h1><center><FONT COLOR="GREEN">EXAMEN DE 2DO QUIMESTRE</FONT></center></h1>
+            <h2><center><u><FONT COLOR="51D1F6">&Aacute;REA DE INFORM&Aacute;TICA</FONT></u></center></h2>
+                 <h3><center><FONT COLOR="RED">1ro T&eacute;cnico "-"</FONT></center></h3>
+                     <h4><center><FONT COLOR="GOLD">Tasipanta Ambas Luis Alexander</FONT></center></h4>
+                     <center>
+    <table border="1">
+        <tr>
+            <th colspan="3">
+            <FONT COLOR="RED">LIBRERI&Aacute; DEL FUTURO</FONT>
+            </th>
+        </tr>
+        <tr>
+                <th>Libro</th>
+                <th>Asignatura</th>
+                <th>Valor</th>
+        </tr>
+        <tr>
+            <td><img src="http://josephorallo.webs.upv.es/libro_c++/portada.jpg" alt="10" width="105" height="170"></td>
+            <td>Libro de Programaci&oacute;n en 
+                Lenguaje C++</td>
+            <td>$5.00</td>
+        </tr>
+        <tr>
+            <td><img src="https://rclibros.es/wp-content/uploads/2020/10/9788494345050.gif" alt="10" width="105" height="170"></td>
+            <td>Aprendiendo con ejercicios de 
+                Java en un dia</td>
+            <td>$6.00</td>
+        </tr>
+    </center>
+    </table>
+
+   
+    <h2><center><FONT COLOR="GREEN">Integrntes de mi familia</FONT></center></h2>
+    
+    <ol>
+         
+      <li>Pap&aacute;:Stalin Tasipanta</li>
+      <li>Mam&aacute;:Veronica Ambas</li> 
+    <ul>
+        <li>Hermana 1:Issac Tasipanta</li>
+    </ul>
+        <li>Abuelito : Jose Jair</li>
+    <ul>
+        <li>Tio: Cristofer Fair</li>
+        <li>Tio: Brayan Fair</li>
+        <li>Primo:Mateo Fair</li>
+    </ul>
+<li>Abuelo 2: Jose Ambas</li>
+    <ul>
+    </table>
+<hr>
+<h1><center>Formulario</center></h1>
+<h3><form action="">
+    <p>
+        <label for="">Escriba su nombre</label>     
+        <input type="text"placeholder="">
+    </p>
+</form>
+<h3><form action="">
+    <p>
+        <label for="">Escriba sus apellidos</label>     
+        <input type="text"placeholder="">
+    </p>
+</form>
+<h3>Escriba su sexo:</h3>
+<p>
+<input type="radio" name-="genero" value="masculino">Masculino</br>
+<input type="radio" name-="genero" value="femenino">Femenino</br>
+</p>
+<fieldset>
+    <input type="submit" value="enviar">
+</fieldset>
+</form>
+</body>
+</html>
